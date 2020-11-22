@@ -1,0 +1,9 @@
+
+1.プロジェクトを作る
+2.settings.pyを書き換える(templatesディレクトリの指定)
+3.templatesディレクトリを作る
+4.アプリを作る
+5.urls.pyを編集(URLと処理の関係を書く)
+6.views.pyを編集(処理を書く)
+7.templatesディレクトリにHTMLファイルを書く
+
